@@ -1,0 +1,3 @@
+word=input("Enter a word: ")
+result=word+" "+word
+print(result)
